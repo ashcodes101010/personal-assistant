@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/personal-assistant/static/js/main.e7baf57e.chunk.js",
+    "main.js.map": "/personal-assistant/static/js/main.e7baf57e.chunk.js.map",
+    "runtime-main.js": "/personal-assistant/static/js/runtime-main.c67efb09.js",
+    "runtime-main.js.map": "/personal-assistant/static/js/runtime-main.c67efb09.js.map",
+    "static/js/2.dd2c35aa.chunk.js": "/personal-assistant/static/js/2.dd2c35aa.chunk.js",
+    "static/js/2.dd2c35aa.chunk.js.map": "/personal-assistant/static/js/2.dd2c35aa.chunk.js.map",
+    "index.html": "/personal-assistant/index.html",
+    "precache-manifest.5c87a91dd7234caeeba2b402b01d3bc5.js": "/personal-assistant/precache-manifest.5c87a91dd7234caeeba2b402b01d3bc5.js",
+    "service-worker.js": "/personal-assistant/service-worker.js",
+    "static/js/2.dd2c35aa.chunk.js.LICENSE.txt": "/personal-assistant/static/js/2.dd2c35aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c67efb09.js",
+    "static/js/2.dd2c35aa.chunk.js",
+    "static/js/main.e7baf57e.chunk.js"
+  ]
+}
